@@ -6,8 +6,6 @@ Everybody wants to know how it is going to be during the week. Will it be rainy,
 
 
 
-![Simulator Screen Shot - iPhone 8 Plus - 2021-03-08 at 11 04 57](https://user-images.githubusercontent.com/50017775/110279493-30614080-7fff-11eb-8aa3-3ac15e8b4091.JPEG)
-![Simulator Screen Shot - iPhone 8 Plus - 2021-03-08 at 11 04 57](https://user-images.githubusercontent.com/50017775/110303326-43383d00-8020-11eb-929b-13a275ee384e.JPEG)
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-03-08 at 11 05 06](https://user-images.githubusercontent.com/50017775/110303339-48958780-8020-11eb-9f9d-0759d89e7c2e.JPEG)
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-03-08 at 11 05 12](https://user-images.githubusercontent.com/50017775/110303342-49c6b480-8020-11eb-86d2-31ab57840854.JPEG)
 ![Simulator Screen Shot - iPhone 8 Plus - 2021-03-08 at 11 05 19](https://user-images.githubusercontent.com/50017775/110303343-4a5f4b00-8020-11eb-9e56-a997dcf49ebb.JPEG)
